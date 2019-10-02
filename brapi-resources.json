@@ -167,7 +167,7 @@
         "resource": [
           {
             "name": "TERRA-REF BrAPI implementation",
-            "base-url": "https://brapi.workbench.terraref.org/brapi/v1/"
+            "base-url": "https://terraref.org/brapi/v1/"
           }
         ]
       }
